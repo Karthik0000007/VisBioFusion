@@ -8,8 +8,7 @@
 
 **VisBioFusion** is a multimodal generative AI framework that integrates **biological visual data** and **biomedical text** into a unified foundation model for **biological visual intelligence**.
 
-The project develops a **diffusion-transformer hybrid architecture** capable of learning from microscopy and histopathology imagery, while being guided by contextual information from biomedical literature.  
-This aligns closely with research directions in **Generative Models**, **Multimodal Foundation Models**, and **RL-based Fine-Tuning** explored at the **KAIST Visual AI Group**.
+The project develops a **diffusion-transformer hybrid architecture** capable of learning from microscopy and histopathology imagery, while being guided by contextual information from biomedical literature.
 
 ---
 
